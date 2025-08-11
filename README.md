@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harsh Balwally</h1>
-<h3 align="center">Hey! I’m Harsh Balwally, a frontend developer on a mission to create health-promoting and inspiring websites. Currently in my 4th year at IIPS College and DAVV University, I thrive on turning code into captivating experiences. When I'm not immersed in web design, you'll find me crushing it at the gym, prioritizing my health, and staying fit. Because fitness is key! I'm also passionate about sports and love diving into the world of video games during my downtime. Let’s connect and make something incredible happen!</h3>
+<h3 align="center">Hello, I’m Harsh Balwally. I am a final-year student with a unique blend of skills in frontend development and data analysis. My background in creating user-friendly websites has given me a passion for turning complex information into clear and engaging experiences.
+I am now channeling that passion into data analytics, using Python, SQL, and statistics to uncover insights and solve real-world problems. I am eager to apply my ability to both analyze and visualize data to help drive business decisions.
+Core Skills:
+Data Analysis: Python (Pandas, Matplotlib, Seaborn), SQL, Statistics, Exploratory Data Analysis (EDA)
+Frontend: HTML, CSS, JavaScript (React/Vue)
+Tools: Git, GitHub, Google Colab</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshbalwally&label=Profile%20views&color=0e75b6&style=flat" alt="harshbalwally" /> </p>
 
