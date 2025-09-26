@@ -4,7 +4,7 @@ I am now channeling that passion into data analytics, using Python, SQL, and sta
 Core Skills:
 Data Analysis: Python (Pandas, Matplotlib, Seaborn), SQL, Statistics, Exploratory Data Analysis (EDA)
 Frontend: HTML, CSS, JavaScript (React/Vue)
-Tools: Git, GitHub, Google Colab</h3>
+Tools: Git, GitHub, Google Colab,jupyter notebook , power bi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshbalwally&label=Profile%20views&color=0e75b6&style=flat" alt="harshbalwally" /> </p>
 
